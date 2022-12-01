@@ -13,3 +13,6 @@
 
 Файлы статей представлены в формате **[Markdown](https://ru.wikipedia.org/wiki/Markdown)**
 
+# Содержание
+
+[Deep contextualized word representations](https://github.com/galagankv/Translation/blob/main/sourses/Deep_contextualized_word_representations.pdf) [перевод](https://github.com/galagankv/Translation/blob/main/artilce/Deep_contextualized_word_representations_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4).pdf)
